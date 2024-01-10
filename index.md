@@ -12,4 +12,4 @@ title: Home
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
 
-[fun link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011652)
+[fun link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011652/)
